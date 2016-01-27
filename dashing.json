@@ -1,0 +1,29 @@
+{
+    "name": "Nim",
+    "package":"nim",
+    "index": "theindex.html",
+    "selectors": {
+           "h1.title":{
+           	"type":"Module",
+           	"regexp":"Module ",
+           	"replacement": ""
+           	},
+        "div#7>dl.item>dt>pre>span.Identifier:nth-child(1)":"Type",
+        "div#8>dl.item>dt>pre>span.Identifier:nth-child(1)":"Variable",
+        "div#9>dl.item>dt>pre>span.Identifier:nth-child(1)":"Value",
+        "div#10>dl.item>dt>pre>span.Identifier:nth-child(1)":"Constant",
+        "div#12>dl.item>dt>pre>span.Identifier:nth-child(2)":"Procedure",
+        "div#13>dl.item>dt>pre>span.Identifier:nth-child(2)":"Method",
+        "div#14>dl.item>dt>pre>span.Identifier:nth-child(2)":"Provider",
+        "div#15>dl.item>dt>pre>span.Identifier:nth-child(2)":"Modifier",
+        "div#16>dl.item>dt>pre>span.Identifier:nth-child(2)":"Macro",
+        "div#17>dl.item>dt>pre>span.Identifier:nth-child(2)":"Shortcut",
+        "div#18>dl.item>dt>pre>span.Identifier:nth-child(2)":"Shortcut"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": true,
+    "ExternalURL": ""
+}
