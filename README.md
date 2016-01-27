@@ -7,7 +7,7 @@ Docset is a kind of file designed for offline api documation browser which is op
 You can use [Dash](https://kapeli.com/dash)(OS X),[Zeal](https://zealdocs.org/)(Linux&Windoge:dog:) or [Velocity](https://velocity.silverlakesoftware.com/)(Windoge:dog:) to open it.
 
 An official prebuilded document docset is also maintain by this project.  
-Download is in release,tested on Linux Zeal.
+Download is in [release](https://github.com/wicast/nim-docset/releases),tested on Linux Zeal.
 
 ### Usage
 First of all,you shoud install [dashing](https://github.com/technosophos/dashing) first.
@@ -35,3 +35,4 @@ Forgive my poor english :( ,I can't figure out another more accurate names.If yo
 #### TODO
 - [ ] Manual and Api documation can't distinct by just using css selector.
 - [ ] Batter Entry names.
+- [ ] Icon needed.
