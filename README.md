@@ -1,8 +1,8 @@
 # Nim-docset
-###### A docset generetion config for Nim using dashing.
+###### A docset genereting config for Nim using dashing.
 
 ### About
-This project is using [dashing](https://github.com/technosophos/dashing) -- A docset gengrator,for Nim docset generation.  
+This project is using [dashing](https://github.com/technosophos/dashing) -- A docset gengrator,for Nim docset generating.  
 Docset is a kind of file designed for offline api documation browser which is optimized for querying.  
 You can use [Dash](https://kapeli.com/dash)(OS X),[Zeal](https://zealdocs.org/)(Linux&Windoge:dog:) or [Velocity](https://velocity.silverlakesoftware.com/)(Windoge:dog:) to open it.
 
